@@ -2,7 +2,7 @@
 
 **Decentralized Emergency Coordination System powered by AI & Walrus**
 
-*Award-winning hackathon project for Walrus Haulout 2025*
+*Hackathon project for Walrus Haulout 2025*
 
 ---
 
